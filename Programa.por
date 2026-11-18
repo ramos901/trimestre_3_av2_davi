@@ -29,11 +29,11 @@ programa {
       funcao menuremover() {
         
 
-        escreva("---REMOVER ITEM DO CARRINHO---")
-        escreva("1. camisa esportiva (no carrinho: ")
-        escreva("2. bone casual (no carrnho: ")
-        escreva("3. tenis de corrida (no carrinho: ")
-        escreva("escolha o item que deseja remover totalmente:")
+        escreva("---REMOVER ITEM DO CARRINHO---\n")
+        escreva("1. camisa esportiva  \n")
+        escreva("2. bone casual \n")
+        escreva("3. tenis de corrida  \n")
+        escreva("escolha o item que deseja remover totalmente:\n")
 
 
 
