@@ -1,7 +1,7 @@
 programa {
   funcao inicio() {
     menuPrincipal()
-
+    menuremover()
 
   }
 
@@ -26,5 +26,19 @@ programa {
     }
 
 
+      funcao menuremover() {
+        
+
+        escreva("---REMOVER ITEM DO CARRINHO---")
+        escreva("1. camisa esportiva (no carrinho: ")
+        escreva("2. bone casual (no carrnho: ")
+        escreva("3. tenis de corrida (no carrinho: ")
+        escreva("escolha o item que deseja remover totalmente:")
+
+
+
+
+
+        }
 
 }
